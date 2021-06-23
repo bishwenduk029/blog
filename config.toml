@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://bishblogs.onrender.com"
 title = "Bishwendu's Thoughts"
 author = "Bishwendu Kundu"
 canonifyurls = true
